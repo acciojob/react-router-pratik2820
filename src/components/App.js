@@ -4,7 +4,7 @@ import './../styles/App.css';
 import Navbar from "./Navbar";
 import Home from "./Home";
 import About from "./About";
-import { Routes,Route } from "react-router-dom/dist";
+import { Routes,Route } from "react-router-dom";
 
 const App = () => {
   return (
